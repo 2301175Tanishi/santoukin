@@ -5,6 +5,7 @@
     <title>一言掲示板 - 投稿一覧</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+//編集お試し
 <body>
     <h1>📜 投稿一覧</h1>
     <p><a href="form.php">← 投稿フォームへ戻る</a></p>
