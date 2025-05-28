@@ -5,7 +5,7 @@ $time = date('Y-m-d H:i:s');
 
 if (trim($comment) === '') {
     header("Location: form.php");
-    exit;
+    exit; 
 }
 
 $entry = "$time\t$name\t$comment\n";
